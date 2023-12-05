@@ -8,4 +8,6 @@
 
 julia ./main.jl
 
+using Pkg;Pkg.add(["QuantumOptics"])
+
 exit
